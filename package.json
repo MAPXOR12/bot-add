@@ -1,7 +1,7 @@
 {
-  "name": "LORD",
+  "name": "Developer Support",
   "version": "2.1.0",
-  "description": "LORD",
+  "description": "Developer Support",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
